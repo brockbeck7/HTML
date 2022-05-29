@@ -1,34 +1,3 @@
 body {
-    background-color: lightcoral;
-}
-
-h1 {
-    color: black;
-}
-
-table {
-    border-collapse: collapse;
-    width: 75%;
-}
-
-th,
-td {
-    text-align: left;
-    padding: 8px;
-    border-bottom: 1px solid black;
-}
-
-form {
-    border-style: dotted;
-    border-color: whitesmoke;
-    background-color: dimgrey;
-}
-
-a {
-    background-color: powderblue;
-    transition: background-color .5s;
-}
-
-a:hover {
-    background-color: orchid;
+    background-color: darkgrey;
 }
